@@ -103,7 +103,8 @@
         "dbt-expectations"
     ],
     "monitorial-io" : [
-        "dbt-snowflake-cortex"
+        "dbt-snowflake-cortex",
+        "dbt-snowflake-data-governance"
     ],
     "Montreal-Analytics": [
         "dbt-snowflake-utils"
